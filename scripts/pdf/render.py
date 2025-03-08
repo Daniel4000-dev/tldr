@@ -7,6 +7,7 @@ intermediate HTML files from existing md files using Python-markdown, applying d
 through CSS, and finally rendering them as PDF. There is no LaTeX dependency for generating the PDF.
 """
 
+import utils.session
 import os
 import sys
 import glob

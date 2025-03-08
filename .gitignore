@@ -1,5 +1,4 @@
 # VS Code
-.vscode/
 
 # Jetbrains IDE
 .idea/
@@ -31,3 +30,4 @@ venv
 
 # Generated pycache
 __pycache__
+config.bat
